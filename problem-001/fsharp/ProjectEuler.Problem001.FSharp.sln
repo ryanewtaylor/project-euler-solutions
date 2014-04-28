@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ProjectEuler.Problem001.FSharp", "ProjectEuler.Problem001.FSharp.fsproj", "{D40BAF6D-597B-49A6-9333-8A31F957E101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40BAF6D-597B-49A6-9333-8A31F957E101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40BAF6D-597B-49A6-9333-8A31F957E101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40BAF6D-597B-49A6-9333-8A31F957E101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40BAF6D-597B-49A6-9333-8A31F957E101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
